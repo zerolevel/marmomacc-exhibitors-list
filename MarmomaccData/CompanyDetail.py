@@ -26,6 +26,7 @@ class CompanyDetail:
     website = ""
     phone = ""
     fax = ""
+    country = ""
 
     def __init__(self, cId):
         """
